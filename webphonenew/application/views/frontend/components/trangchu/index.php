@@ -2,8 +2,8 @@
     <div class="slider">
         <div class="container slider-content">
            <div class="" style="">
-             <img class="banner-left" src="public/images/banner-right.png">
-             <img class="banner-left" src="public/images/banner-bottom.png">
+             <img class="banner-left" src="public/images/cellphone_slider1.png">
+             <img class="banner-left" src="public/images/Untitled2.jpg">
          </div>
          <div class="slider-main">
             <?php 

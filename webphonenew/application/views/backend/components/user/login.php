@@ -13,7 +13,7 @@
     <body>
         <div class="container khung">
             <div class="title">
-                <h3 class="text-center" style="color:#282BB7">VUA NỆM</h3>
+                <h3 class="text-center" style="color:#d70018">VUA NỆM</h3>
             </div>
             <hr>
             <div class="myform">
