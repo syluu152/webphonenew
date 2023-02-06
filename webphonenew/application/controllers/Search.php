@@ -20,7 +20,7 @@ class Search extends CI_Controller {
 		$total = $this->Mproduct->product_search_count($key);
 		$this->data['list'] = $this->Mproduct->product_search($key,$limit,$first);;
 		$this->data['strphantrang']=$this->phantrang->PagePer($total, $current, $limit, $url= $url);
-		$this->data['title']='Vua nệm - Bạn muốn tìm gì ?';  
+		$this->data['title']='Cellphones - Bạn muốn tìm gì ?';  
 		$this->data['view']='index';
 		$this->data['count'] = $total;
 		$this->data['key'] =$key;

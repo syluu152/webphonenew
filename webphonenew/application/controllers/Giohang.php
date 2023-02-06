@@ -26,7 +26,7 @@ class Giohang extends CI_Controller
     // Hàm index - hiển thị thông tin giỏ hàng
     public function index()
     {
-        $this->data['title'] = 'Vua nệm - Giỏ hàng của bạn';
+        $this->data['title'] = 'Cellphones - Giỏ hàng của bạn';
         $this->data['view'] = 'index';
         $this->load->view('frontend/layout', $this->data);
     }
@@ -248,7 +248,7 @@ class Giohang extends CI_Controller
             }
         } else {
             // ngược lại nếu không phải mothod post sẽ render giao diện info-order
-            $this->data['title'] = 'Vua nệm - Thông tin đơn hàng';
+            $this->data['title'] = 'Cellphones - Thông tin đơn hàng';
             $this->data['view'] = 'info-order';
             $this->load->view('frontend/layout', $this->data);
         }
@@ -465,7 +465,7 @@ class Giohang extends CI_Controller
             $this->email->initialize($config);
             $this->email->from($this->config_mail['mail_noreply'], $this->config_mail['title']);
             $this->email->to($val['email']);
-            $this->email->subject('Công ty CP Đầu tư Vua nệm');
+            $this->email->subject('Công ty CP Đầu tư Cellphones');
             $body = $this->load->view('frontend/modules/email', $data, TRUE);
             $this->email->message($body);
             $this->email->send();
@@ -475,7 +475,7 @@ class Giohang extends CI_Controller
             $this->Mcustomer->customer_update($datax, $idx);
             $this->session->unset_userdata('id-info-customer', 'money_check_coupon');
         }
-        $this->data['title'] = 'Vua nệm - Kết quả đơn hàng';
+        $this->data['title'] = 'Cellphones - Kết quả đơn hàng';
         $this->data['view'] = 'thankyou';
         $this->load->view('frontend/layout', $this->data);
     }

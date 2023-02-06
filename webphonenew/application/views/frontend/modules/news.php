@@ -7,7 +7,7 @@
 			<div class="spost clearfix">
 				<div class="entry-image e-img">
 					<a href="tin-tuc/<?php echo $value['alias'] ?>" class="nobg a-circle">
-						<img class="img-circle-custom" src="public/images/posts/<?php echo $value['img']; ?>" alt="Vua nệm giảm đến 30%">
+						<img class="img-circle-custom" src="public/images/posts/<?php echo $value['img']; ?>" alt="Cellphones giảm đến 30%">
 					</a>
 				</div>
 				<div class="entry-c">

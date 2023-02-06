@@ -12,7 +12,7 @@
             if(isset($title))
                 echo $title;
             else
-                echo "Công ty CP Đầu tư Vua nệm - Phát triển và phân phối thực phẩm hữu cơ cho người Việt";
+                echo "Công ty CP Đầu tư Cellphones - Phát triển và phân phối thực phẩm hữu cơ cho người Việt";
         ?>
     </title>
     <link rel="icon" type="image/x-icon" href="public/images/icon.png">

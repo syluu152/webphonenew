@@ -203,7 +203,7 @@
         <div class="container">
             <div class="row">
                 <div id="service_home" class="clearfix">
-                    <h3>Tại sao nên chọn Vua Nệm</h3>
+                    <h3>Tại sao nên chọn Cellphones</h3>
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-center m-b-xs-10">
                         <div class="service_item">
                             <div class="icon icon_product">

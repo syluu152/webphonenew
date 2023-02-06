@@ -116,7 +116,7 @@
               <div class="flex-center"><span class="flex has-icon zalo-icon"></span></div>
               <div>
                 <h4>Chat Zalo</h4>
-                <p>Chat trực tuyến với nhân viên Vua nệm </p>
+                <p>Chat trực tuyến với nhân viên Cellphones </p>
               </div>
             </a>
           </div>
@@ -126,7 +126,7 @@
               <div class="flex-center"><span class="has-icon contact-icon"></span></div>
               <div>
                 <h4>Gửi yêu cầu</h4>
-                <p>Vua nệm sẽ phản hồi ngay khi nhận được yêu cầu</p>
+                <p>Cellphones sẽ phản hồi ngay khi nhận được yêu cầu</p>
               </div>
             </a>
           </div>

@@ -36,7 +36,7 @@ class Sanpham extends CI_Controller {
         $total=$this->Mproduct->product_sanpham_count();
         $this->data['strphantrang']=$this->phantrang->PagePer($total, $current, $limit, $url='san-pham');
         $this->data['list']=$this->Mproduct->product_sanpham($limit,$first,$f,$od);
-        $this->data['title']='Vua nệm - Tất cả sản phẩm';
+        $this->data['title']='Cellphones - Tất cả sản phẩm';
         $this->data['view']='index';
         if(isset($_POST['sapxep'])){
             $result=$this->load->view('frontend/components/sanpham/index_order',$this->data,true);
@@ -77,7 +77,7 @@ class Sanpham extends CI_Controller {
         $total=$this->Mproduct->product_chude_count($listcat);
         $this->data['strphantrang']=$this->phantrang->PagePer($total, $current, $limit, $url='san-pham/'.$link);
         $this->data['list']=$this->Mproduct->product_list_cat_limit($listcat, $limit,$first,$f,$od);
-        $this->data['title']='Vua nệm - Sản phẩm theo từng danh mục';  
+        $this->data['title']='Cellphones - Sản phẩm theo từng danh mục';  
         $this->data['view']='category';
         if(isset($_POST['sapxep-category'])){
 
@@ -93,7 +93,7 @@ class Sanpham extends CI_Controller {
     public function detail($link){   
         $row = $this->Mproduct->product_detail($link);
         $this->data['row']=$row;
-        $this->data['title']='Vua nệm - '.$row['name'];  
+        $this->data['title']='Cellphones - '.$row['name'];  
         $this->data['view']='detail';
         $this->load->view('frontend/layout',$this->data);
     }

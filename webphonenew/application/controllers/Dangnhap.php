@@ -59,7 +59,7 @@ class Dangnhap extends CI_Controller {
                 $this->load->view('frontend/layout',$this->data);
             }
         } else {
-            $this->data['title']='Vua nệm - Đăng nhập tài khoản';
+            $this->data['title']='Cellphones - Đăng nhập tài khoản';
             $this->data['view']='dangnhap';
             $this->load->view('frontend/layout',$this->data);
         }     
@@ -140,14 +140,14 @@ class Dangnhap extends CI_Controller {
             $this->email->initialize($config);
             $this->email->from($this->config_mail['mail_noreply'], $this->config_mail['title']);
             $this->email->to($email);
-            $this->email->subject('Vua nệm - Quà thành viên mới');
-            $this->email->message('Bạn đã trở thành thành viên mới của cửa hàng Vua nệm, Cửa hàng tặng bạn 1 mã giảm giá giảm 100.000 đ : '.$tempcoupon.' , Mã này có giá trị tới ngày '.$tempdatelimit.'
+            $this->email->subject('Cellphones - Quà thành viên mới');
+            $this->email->message('Bạn đã trở thành thành viên mới của cửa hàng Cellphones, Cửa hàng tặng bạn 1 mã giảm giá giảm 100.000 đ : '.$tempcoupon.' , Mã này có giá trị tới ngày '.$tempdatelimit.'
                 Hãy sử dụng tài khoản để mua hàng để tích lũy nhận thêm nhiều ưu đãi !!!!');
             $this->email->send();
             $this->data['success']='Đăng ký thành công! Bạn đã nhận được 1 mã giảm giá cho thành viên mới, vui lòng kiểm tra email !!';
 
         }  
-        $this->data['title']='Vua nệm - Đăng ký tài khoản';   
+        $this->data['title']='Cellphones - Đăng ký tài khoản';   
         $this->data['view']='dangky';
         $this->load->view('frontend/layout',$this->data);  
     }
@@ -195,12 +195,12 @@ class Dangnhap extends CI_Controller {
             $this->email->initialize($config);
             $this->email->from($this->config_mail['mail_noreply'], $this->config_mail['title']);
             $this->email->to($list['email']);
-            $this->email->subject('Vua nệm - Lấy lại mật khẩu');
+            $this->email->subject('Cellphones - Lấy lại mật khẩu');
             $this->email->message('Vui lòng truy cập đường dẫn để lấy lại mật khẩu <button class="btn"><a href="'.base_url().'dangnhap/reset_password_new/'.$list['id'].'">Lấy lại mật khẩu</a></button>'); 
             $this->email->send();
             $this->data['success']='Bạn vui lòng kiểm tra mail để lấy lại mật khẩu!';   
         }  
-        $this->data['title']='Vua nệm - Quên mật khẩu';   
+        $this->data['title']='Cellphones - Quên mật khẩu';   
         $this->data['view']='forget_password';
         $this->load->view('frontend/layout',$this->data);  
     }
@@ -238,13 +238,13 @@ class Dangnhap extends CI_Controller {
            }
            else{
             $this->data['error']='Email không đúng, vui lòng nhập đúng email cần lấy lại mật khẩu !';
-            $this->data['title']='Vua nệm - Cập nhật mật khẩu mới';
+            $this->data['title']='Cellphones - Cập nhật mật khẩu mới';
             $this->data['view']='reset_password_new';
             $this->load->view('frontend/layout',$this->data);
         }
 
     }
-    $this->data['title']='Vua nệm - Cập nhật mật khẩu mới';
+    $this->data['title']='Cellphones - Cập nhật mật khẩu mới';
     $this->data['view']='reset_password_new';
     $this->load->view('frontend/layout',$this->data);
 }

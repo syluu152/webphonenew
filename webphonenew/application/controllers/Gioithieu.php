@@ -11,7 +11,7 @@ class Gioithieu extends CI_Controller {
     }
     
 	public function index(){
-        $this->data['title']='Vua nệm - Giới thiệu';
+        $this->data['title']='Cellphones - Giới thiệu';
         $this->data['view']='index';
 		$this->load->view('frontend/layout',$this->data);
 	}

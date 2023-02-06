@@ -13,7 +13,7 @@
     <body>
         <div class="container khung">
             <div class="title">
-                <h3 class="text-center" style="color:#d70018">VUA NỆM</h3>
+                <h3 class="text-center" style="color:#d70018">Cellphones</h3>
             </div>
             <hr>
             <div class="myform">
@@ -50,7 +50,7 @@
         </div>
         <nav class="navbar navbar-fixed-bottom" role="navigation">
             <div class="container">
-               <h5 class="text-center">Copyright © 2022 <a href="#" style="color:red">Vua nệm</a>. All rights reserved.</h5>
+               <h5 class="text-center">Copyright © 2022 <a href="#" style="color:red">Cellphones</a>. All rights reserved.</h5>
             </div>
         </nav>
         <!-- jQuery -->
