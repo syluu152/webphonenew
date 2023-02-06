@@ -49,7 +49,7 @@
 								</div>
 								<div class="contact">
 								<i class="icon fa fa-envelope"></i> 
-								<span><a href="mailto:vochibao0162@gmail.com">vochibao0162@gmail.com</a></span>
+								<span><a href="mailto:vochibao0162@gmail.com">syluu@gmail.com</a></span>
 								</div>
 							</div>
 							<div style="width: 22%;display: flex;justify-content: flex-end;align-content: center;">

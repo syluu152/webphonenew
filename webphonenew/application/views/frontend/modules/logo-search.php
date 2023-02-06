@@ -2,7 +2,7 @@
   <div class="container">
    <div class="header-logo">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 logo">
-        <a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/logo-white.svg" alt="Logo Construction"></a>
+        <a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/cellphone1.png" alt="Logo Construction"></a>
       </div>
     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 search">
       

@@ -64,7 +64,7 @@
 				</li>
 				<li class="clearfix">
 					<i class="fa fa-envelope fa-1x " style="color:#0f9ed8; padding: 20px; "></i>
-					<span style="color: black"><a href="mailto:vochibao0162@gmail.com">vochibao0162@gmail.com</a></span>
+					<span style="color: black"><a href="mailto:vochibao0162@gmail.com">syluu@gmail.com</a></span>
 				</li>
 			</ul>
 		</div>

@@ -12,14 +12,14 @@
       </div> -->
   </div>
   <div class="top-footer">
-    <div class="container">
+    <div class="container">Logo Construction
         <div class="col-xs-12 col-sm-12 col-md-6">
             <div class="col-xs-12 col-sm-6" style="padding-right: 10px!important;">
                 <a href="trang-chu">
-                    <img src="public/images/logo-blue.svg" style="width: 90%;" class="img-fix f-logo" alt="smart-construction">
+                    <img src="public/images/cellphone2.jpg" style="width: 90%;" class="img-fix f-logo" alt="smart-construction">
                 </a>
                 <div class="about-store">
-            Công ty cổ phần Đầu tư Vua Nệm - Phát triển và phân phối cho người Việt
+            Công ty cổ phần CellphoneS Việt Nam
              </div>
          </div>
          <div class="col-xs-12 col-sm-6">
@@ -28,7 +28,7 @@
                 <ul class="list-unstyled">
                     <li class="clearfix">
                         <i class="fa fa-map-marker"></i>
-                        <span>Số 2 Trường Sa, Bình Thạnh</span>
+                        <span>Số 235 Hoàng Quốc Việt, Cầu Giấy, Hà Nội</span>
                     </li>
                     <li class="clearfix">
                         <i class="fa fa-phone"></i>
@@ -36,7 +36,7 @@
                     </li>
                     <li class="clearfix">
                         <i class="fa fa-envelope"></i>
-                        <span><a href="mailto:vochibao0162@gmail.com">vochibao0162@gmail.com</a></span>
+                        <span><a href="mailto:vochibao0162@gmail.com">syluu@gmail.com</a></span>
                     </li>
                 </ul>
             </div>
@@ -106,7 +106,7 @@
             </div>
             <div class="text-center">
               <div><a href="tel:0326.848.776" rel="nofollow">0326.848.776 <b>(Mr. Bảo)</b></a></div>
-              <div><span>Email: vochibao0162@gmail.com</span></div>
+              <div><span>Email: syluu@gmail.com</span></div>
             </div>
           </div>
         </div>
