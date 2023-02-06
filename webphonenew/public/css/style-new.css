@@ -1,5 +1,5 @@
 .header-logo{
-    background: #282BB7;
+    background: #d70018;
     width: 100%;
     height: 88px;
 }
@@ -75,10 +75,10 @@ height: unset;
 font-size: 14px;
 }
 .menu-right li a:hover{
-    color: #282BB7;
+    color: #d70018;
     display: block;
     background: white;
-    border-bottom: #282BB7 1px solid;
+    border-bottom: #d70018 1px solid;
 }
 .menu-right li a {
 padding: 13px;
@@ -155,31 +155,31 @@ line-height: unset;
     height: 265px;
 }
 .sale-title {
-background: #282BB7;
+background: #d70018;
 }
 .owl-carousel-product .owl-item:hover{
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
 }
 .scroll{
-    background: #282BB7;
+    background: #d70018;
 }
 .scroll:hover{
     color: #d40a0a;
-    background: rgb(4, 114, 224);
+    background: rgb(224, 4, 92);
 }
 .bottom_support {
-    background: #283dc1;
+    background: #d10219;
 }
 .bottom_support .hotline_bottom {
-    background: #283dc1;
+    background: #d10219;
 }
 .bottom_support .guide_payment {
-    background: linear-gradient(-60deg, #283dc1 90%, #283dc1 50%) no-repeat;
+    background: linear-gradient(-60deg, #d10219 90%, #d10219 50%) no-repeat;
    
 }
 .bottom_support .advisory_online {
-    background: linear-gradient(-60deg, #283dc1 90%, #283dc1 50%) no-repeat;
+    background: linear-gradient(-60deg, #d10219 90%, #d10219 50%) no-repeat;
 }
 .ico{
     display: none!important;
@@ -195,25 +195,25 @@ background: #282BB7;
 #service h3,.title{
     padding: 0;
     margin: 0;
-    color: #20315C;
+    color: #e40e26;
     margin-bottom: 20px;
     font-weight: 700;
     text-align: center;
 }
 .footer-title,footer .top-footer h3{
-    color: #20315C!important;
+    color: #e40e26!important;
 }
 #footer .top-footer .f-contact span {
-    color: #36456E ;
+    color: #a40f1f ;
 }
 #footer a {
-    color: #36456E ;
+    color: #a40f1f ;
 }
 #footer a:hover {
-    color: #36456E ;
+    color: #a40f1f ;
 }
 
-/* #36456E */
+/* #a40f1f */
 #service_home .service_item {
     -webkit-box-shadow: unset;
     box-shadow: unset;
@@ -239,14 +239,14 @@ background: #282BB7;
     text-align: center;
     /* padding-left: 30px; */
     font-weight: 400;
-    color: #001F86;
+    color: #d61227;
     text-transform: uppercase;
 }
 .col_full label {
-color: #20315C;
+color: #e40e26;
 }
 #login .button, #register button {
-background: #282BB7;
+background: #d70018;
 color: white;
 }
 
@@ -257,62 +257,62 @@ background: #f43a3a;
 background: #FA6160;
 }
 .fk-tit {
-background: #283dc1;
+background: #d10219;
 }
 .product-v-desc h3:first-child {
     text-transform: uppercase;
-    color: #001F86;
+    color: #d61227;
     font-weight: 600;
-    border-bottom: 3px solid #001F86;
+    border-bottom: 3px solid #d61227;
     padding-bottom: 5px;
 }
 .product-view-name h1{
-    color: #20315c;
+    color: #e40e26;
     font-size: 20px;
     font-weight: 600;
     line-height: 25px;
     margin-bottom: 10px
 }
 .breadcrumbs a {
-    color: #20315c;
+    color: #e40e26;
 }
 .breadcrumbs li.product{
     color: #6c757d;
 }
 .widgets-links p, .widget p {
-background: #001F86;
+background: #d61227;
 }
 .spost .entry-title a {
-color: #36456E;
+color: #a40f1f;
 }
 .list-menu li a{
-border: 1px solid #001F8600;
+border: 1px solid #d6122700;
 }
 .list-menu li a:hover {
-color: #001F86;
+color: #d61227;
 }
 .collection__title h1 {
     font-size: 18px;
     font-weight: bold;
-    color: #001F86;
+    color: #d61227;
     display: inline-block;
     text-transform: uppercase;
     line-height: normal;
     padding: 14px 0px;
-    border-bottom: 3px solid #001F86;
+    border-bottom: 3px solid #d61227;
     margin-bottom: -2px;
     position: relative;
     margin: 0px;
 }
 .contact-row .icon {
-    color: #001F86;
+    color: #d61227;
     margin-top: 3px;
 }
 .btn-next-checkout {
-background: #282BB7;
+background: #d70018;
 }
 .table-list-product thead tr th,.total-price thead tr th{
-    color: #001F86  ;
+    color: #d61227  ;
 }
 .blog-content{
     display: flex;
@@ -324,15 +324,15 @@ background: #282BB7;
     width: 27%;
 }
 .blog-content-item .latest a{
-    color:#0C7FCC;
+    color:#f00e26;
     font-size: 100%;
 }
 .blog-content-item .latest a:hover{
-    color: #0000cc;
+    color: #d90a20;
 
 }
 #info-content h3 {
-    color: #282BB7;
+    color: #d70018;
 }
 .fs-n2-info{
     margin-left: 262px;
@@ -345,30 +345,30 @@ background: #282BB7;
 }
 .voucher-item:hover{
     cursor: pointer;
-    border: 1px solid #0157c7;
+    border: 1px solid #c70118;
 }
 .voucher-item:hover .voucher-title{
     color: red;
 }
 .voucher-item .voucher-title{
     font-size: 120%;
-    color: #0d93da;
+    color: #f9354a;
     margin-bottom: 5px;
 }
 .contact-title-page{
-    color: #282BB7;
+    color: #d70018;
     font-size: 2.5rem;
     text-align: center;
 }
 .btn-contact{
-    background: #2D2E7E;
+    background: #9f1e2c;
     color: white;
     transition: all 500ms;
 }
 .btn-contact:hover{
-    background: #147598;
-    /*color: #2D2E7E;*/
-    border: 1px solid #2D2E7E;
+    background: #98142e;
+    /*color: #9f1e2c;*/
+    border: 1px solid #9f1e2c;
 }
 .voucher-section{
     background: white;
@@ -379,11 +379,11 @@ background: #282BB7;
     flex-wrap: wrap;
     padding: 20px;
     flex-direction: row;
-    border:1px solid #0000cc;
+    border:1px solid #d90a20;
 }
 .option-product-list{
     width: 100%;
-    /*background: #0000cc;*/
+    /*background: #d90a20;*/
     display: flex;
     flex-wrap: wrap;
     /*justify-content: space-between;*/
@@ -404,8 +404,8 @@ background: #282BB7;
     color: black;
 }
 .option-product-list .option-item label:hover{
-    border: 1px solid #282BB7;
-    color: #282BB7;
+    border: 1px solid #d70018;
+    color: #d70018;
 }
 .option-product-list .option-item input{
     opacity: 0;
@@ -414,8 +414,8 @@ background: #282BB7;
 .option-product-list .option-item input[type='radio']:checked + label{
     background: rgba(40, 43, 183, 0.25);
     font-weight: 700;
-    border: 1px solid #282BB7;
-    color: #282BB7;
+    border: 1px solid #d70018;
+    color: #d70018;
 }
 .cart-index h2{
     color: black;
@@ -437,7 +437,7 @@ background: #282BB7;
 a.check-coupon{
     padding: 5px;
     /*border: 1px solid red;*/
-    background: #0d6aad;
+    background: #f9354a;
     color: white;
     display: inline-block;
     margin-top: 10px;
@@ -446,7 +446,7 @@ a.check-coupon:hover{
     border: 1px solid indianred;
 }
 button.button-order{
-    background: #0C7FCC;
+    background: #f00e26;
 }
 table.table-order {
     /*border: 1px solid blue!important;*/
@@ -459,15 +459,15 @@ border-collapse: collapse!important;
 }
 .table-order thead tr th {
     padding: 5px;
-    color: #0C7FCC;
+    color: #f00e26;
     background: #e0e0e0;
 }
 .new-title {
-    color: #2d4c91;
+    color: #912d2d;
     font-weight: 500;
 }
 .wrap-login {
-    /*background: #0C7FCC;*/
+    /*background: #f00e26;*/
 }
 .acc_content {
     margin: 0 auto;
@@ -507,7 +507,7 @@ border-collapse: collapse!important;
     background: #019bff !important;
 }
 .button-bottom a{
-    color: #0d93da;
+    color: #f9354a;
 }
 .bg-button-blue{
     background: #3670D6;
@@ -518,13 +518,13 @@ border-collapse: collapse!important;
 }
 .title-page {
     font-size: 24px;
-    color: #282BB7 !important;
+    color: #d70018 !important;
     font-weight: 600;
 }
 .table-info-order thead tr th {
     font-size: 13px!important;
     text-align: center;
-    color: #0d6aad;
+    color: #f9354a;
 }
 .table-info-order tbody tr td {
     font-size: 13px!important;
@@ -536,7 +536,7 @@ border-collapse: collapse!important;
 
 }
 .table-info-checkout tr td:first-child{
-    color: #0d6aad;
+    color: #f9354a;
     font-weight: 500;
 }
 .require_symbol{

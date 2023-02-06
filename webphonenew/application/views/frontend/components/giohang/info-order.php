@@ -76,7 +76,7 @@ if (isset($_GET['resultCode']) && $_GET['resultCode'] != '') {
                     <div class="checkout-content">
                         <div class="col-xs-12 col-sm-12 col-md-6 col-login-checkout" style="margin-bottom: 20px">
 
-                            <p class="text-center" style="margin: 5px 0;color: #0C7FCC">Địa chỉ giao hàng của quý
+                            <p class="text-center" style="margin: 5px 0;color: #f00e26">Địa chỉ giao hàng của quý
                                 khách</p>
                             <div class="wrap-info"
                                  style="width: 100%; min-height: 1px; overflow: hidden; padding: 10px;">
@@ -245,7 +245,7 @@ if (isset($_GET['resultCode']) && $_GET['resultCode'] != '') {
                     </div>
                     <div class="col-xs-12 col-sm-12 col-md-6 products-detail">
                         <div class="no-margin-table col-login-checkout" style="width: 100%;">
-                            <p class="text-center" style="margin: 5px 0;color: #0C7FCC">Thông tin đơn hàng</p>
+                            <p class="text-center" style="margin: 5px 0;color: #f00e26">Thông tin đơn hàng</p>
                             <table class="table table-info-order" style="color: #333">
                                 <thead>
                                 <tr>

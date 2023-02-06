@@ -62,7 +62,7 @@ pre {
 .contents a,
 .contents a:hover
 {
-    color: #0C7FCC;
+    color: #f00e26;
 }
 
 #titlearea {
@@ -357,7 +357,7 @@ div.toc li.level4 {
 }
 
 .label-since {
-    background: #0C7FCC;
+    background: #f00e26;
 }
 
 .label-optional {
