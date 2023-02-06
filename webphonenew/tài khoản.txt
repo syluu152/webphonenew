@@ -1,6 +1,6 @@
 // login admin
 admin
-123456
+abc123
 // test vnpay
 9704198526191432198
 NGUYEN VAN A
