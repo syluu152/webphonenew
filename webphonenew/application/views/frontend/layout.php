@@ -15,7 +15,7 @@
                 echo "Công ty CP Đầu tư Cellphones - Phát triển và phân phối thực phẩm hữu cơ cho người Việt";
         ?>
     </title>
-    <link rel="icon" type="image/x-icon" href="public/images/icon.png">
+    <link rel="icon" type="image/x-icon" href="public/images/cellphone1.png">
     <link href="public/css/bootstrap.css" rel="stylesheet">
     <link href="public/css/font-awesome.css" rel="stylesheet">
     <link href="public/css/lte.css" rel="stylesheet">
